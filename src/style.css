@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+.contaner {
+  padding: 0 90px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Cairo", sans-serif;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+.shadow {
+  box-shadow: 1px 10px 10px 1px #cbc9c9;
+}
+.p-2 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.d-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
